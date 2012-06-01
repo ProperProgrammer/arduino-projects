@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore
+END
+wiring_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring_private.h
+END
+pins_arduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/pins_arduino.h
+END
+wiring.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring.c
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/Stream.h
+END
+Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/Print.h
+END
+HardwareSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/HardwareSerial.h
+END
+WProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/WProgram.h
+END
+wiring.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring.h
+END
+Tone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/Tone.cpp
+END
+WInterrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/WInterrupts.c
+END
+wiring_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring_pulse.c
+END
+WConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/WConstants.h
+END
+wiring_analog.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring_analog.c
+END
+WMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/WMath.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/main.cpp
+END
+FIFO.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/122/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/FIFO.h
+END
+binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/binary.h
+END
+pins_arduino.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/pins_arduino.c
+END
+wiring_digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring_digital.c
+END
+Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/Print.cpp
+END
+wiring_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/106/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/wiring_shift.c
+END
+HardwareSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/123/Arduino/cores/arduino-ubercore/trunk/cores/arduino-ubercore/HardwareSerial.cpp
+END

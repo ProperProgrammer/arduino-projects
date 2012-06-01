@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk
+END
+usart.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/usart.c
+END
+usart0.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/usart0.c
+END
+usart1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/usart1.c
+END
+rDuino-hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/rDuino-hw.h
+END
+usart.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/usart.h
+END
+Duemilanove-328p-hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/Duemilanove-328p-hw.h
+END
+roguesd.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/roguesd.c
+END
+RogueSDBoot.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/RogueSDBoot.c
+END
+roguesd.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/35/Arduino/bootloaders/RogueSDBoot/trunk/roguesd.h
+END

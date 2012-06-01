@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead
+END
+wiring_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring_private.h
+END
+pins_arduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/pins_arduino.h
+END
+wiring.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring.c
+END
+Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/Print.h
+END
+HardwareSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/HardwareSerial.h
+END
+WProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/WProgram.h
+END
+wiring.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring.h
+END
+Tone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/Tone.cpp
+END
+WInterrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/WInterrupts.c
+END
+wiring_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring_pulse.c
+END
+WConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/WConstants.h
+END
+SerialBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/SerialBase.h
+END
+wiring_analog.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring_analog.c
+END
+WMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/WMath.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/main.cpp
+END
+binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/binary.h
+END
+pins_arduino.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/pins_arduino.c
+END
+wiring_digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring_digital.c
+END
+Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/Print.cpp
+END
+wiring_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/wiring_shift.c
+END
+HardwareSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/50/Arduino/cores/rDuino/tags/rDuinoCore-0001/cores/LEDHead/HardwareSerial.cpp
+END

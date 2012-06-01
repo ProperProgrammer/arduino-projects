@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/bootloaders/LEDHead
+END
+rDuinoLEDHeadBoot.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/bootloaders/LEDHead/rDuinoLEDHeadBoot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/bootloaders/LEDHead/Makefile
+END
+rDuinoLEDHeadBoot.hex
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/bootloaders/LEDHead/rDuinoLEDHeadBoot.hex
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130/RogueRobotics/Tools/RogueUpdater/trunk
+END
+rxtxSerial.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/RogueRobotics/Tools/RogueUpdater/trunk/rxtxSerial.dll
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/102/RogueRobotics/Tools/RogueUpdater/trunk/manifest.mf
+END
+rxtxParallel.dll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/RogueRobotics/Tools/RogueUpdater/trunk/rxtxParallel.dll
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/102/RogueRobotics/Tools/RogueUpdater/trunk/build.xml
+END

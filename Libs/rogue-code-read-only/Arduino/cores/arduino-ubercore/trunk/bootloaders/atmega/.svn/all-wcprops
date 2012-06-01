@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega
+END
+ATmegaBOOT_168.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168.c
+END
+ATmegaBOOT_168_diecimila.hex
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168_diecimila.hex
+END
+ATmegaBOOT_168_atmega328_pro_8MHz.hex
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168_atmega328_pro_8MHz.hex
+END
+ATmegaBOOT_168_ng.hex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168_ng.hex
+END
+ATmegaBOOT_168_pro_8MHz.hex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168_pro_8MHz.hex
+END
+ATmegaBOOT_168_atmega1280.hex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168_atmega1280.hex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/Makefile
+END
+ATmegaBOOT_168_atmega328.hex
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega/ATmegaBOOT_168_atmega328.hex
+END

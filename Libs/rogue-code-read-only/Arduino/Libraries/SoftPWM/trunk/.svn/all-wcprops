@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/132/Arduino/libraries/SoftPWM/trunk
+END
+SoftPWM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/132/Arduino/libraries/SoftPWM/trunk/SoftPWM.cpp
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/132/Arduino/libraries/SoftPWM/trunk/changelog.txt
+END
+SoftPWM.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/129/Arduino/libraries/SoftPWM/trunk/SoftPWM.h
+END
+keywords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/129/Arduino/libraries/SoftPWM/trunk/keywords.txt
+END
+SoftPWM_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/116/Arduino/libraries/SoftPWM/trunk/SoftPWM_timer.h
+END

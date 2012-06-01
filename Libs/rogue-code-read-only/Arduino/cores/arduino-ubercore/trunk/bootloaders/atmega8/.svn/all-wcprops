@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega8
+END
+ATmegaBOOT.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega8/ATmegaBOOT.c
+END
+ATmegaBOOT.hex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega8/ATmegaBOOT.hex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/78/Arduino/cores/arduino-ubercore/trunk/bootloaders/atmega8/Makefile
+END

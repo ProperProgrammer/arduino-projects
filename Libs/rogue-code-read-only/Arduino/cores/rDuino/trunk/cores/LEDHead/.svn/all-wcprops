@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127/Arduino/cores/rDuino/trunk/cores/LEDHead
+END
+wiring_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring_private.h
+END
+pins_arduino.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/pins_arduino.h
+END
+wiring.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring.c
+END
+Stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/127/Arduino/cores/rDuino/trunk/cores/LEDHead/Stream.h
+END
+Print.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/Print.h
+END
+HardwareSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/127/Arduino/cores/rDuino/trunk/cores/LEDHead/HardwareSerial.h
+END
+WProgram.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/WProgram.h
+END
+wiring.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring.h
+END
+Tone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/Tone.cpp
+END
+WInterrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/WInterrupts.c
+END
+wiring_pulse.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring_pulse.c
+END
+WConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/WConstants.h
+END
+wiring_analog.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring_analog.c
+END
+WMath.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/WMath.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/main.cpp
+END
+FIFO.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/127/Arduino/cores/rDuino/trunk/cores/LEDHead/FIFO.h
+END
+binary.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/binary.h
+END
+pins_arduino.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/pins_arduino.c
+END
+wiring_digital.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring_digital.c
+END
+Print.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/Print.cpp
+END
+wiring_shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/48/Arduino/cores/rDuino/trunk/cores/LEDHead/wiring_shift.c
+END
+HardwareSerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/127/Arduino/cores/rDuino/trunk/cores/LEDHead/HardwareSerial.cpp
+END

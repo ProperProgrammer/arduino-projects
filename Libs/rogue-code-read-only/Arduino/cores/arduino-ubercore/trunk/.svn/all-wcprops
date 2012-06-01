@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/124/Arduino/cores/arduino-ubercore/trunk
+END
+boards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/80/Arduino/cores/arduino-ubercore/trunk/boards.txt
+END
+programmers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/80/Arduino/cores/arduino-ubercore/trunk/programmers.txt
+END
