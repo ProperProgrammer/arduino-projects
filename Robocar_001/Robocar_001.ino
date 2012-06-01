@@ -1,41 +1,35 @@
-/*
-RC Car to Robot Conversion
-by Randy Sarafan
 
-Used to convert an RC car into a robot that uses a PING sensor to avoid obstacles,
-and an Arduino motor shield for motor control.
-
-For more information see:
-http://www.instructables.com/id/RC-Car-to-Robot/
-
-Built atop Ping example code by Tom Igoe
-*/
-
-// this constant won't change.  It's the pin number
-// of the sensor's output:
-const int pingPin = 7;
+enum {
+  kPinDriveSpeed = 3,
+  kPinPing = 7,
+  kPinTurnBrake = 8,
+  kPinDriveBrake = 9,
+  kPinTurnMotorSpeed = 11,
+  kPinDriveMotor = 12,
+  kPinTurnMotor = 13,
+};
 
 void setup() {
   
   //establish motor direction toggle pins
-  pinMode(12, OUTPUT); //drive motor -- HIGH = forwards and LOW = backwards
-  pinMode(13, OUTPUT); //turn motor -- HIGH = left and LOW = right
+  pinMode(kPinDriveMotor, OUTPUT); //drive motor -- HIGH = forwards and LOW = backwards
+  pinMode(kPinTurnMotor, OUTPUT); //turn motor -- HIGH = left and LOW = right
   
   //establish motor brake pins
-  pinMode(9, OUTPUT); //brake (disable) the drive motor
-  pinMode(8, OUTPUT); //brake (disable) the turn motor
+  pinMode(kPinDriveBrake, OUTPUT); //brake (disable) the drive motor
+  pinMode(kPinTurnBrake, OUTPUT); //brake (disable) the turn motor
 
   //Turns brake off for drive motor
-  digitalWrite(9, LOW); 
+  digitalWrite(kPinDriveBrake, LOW); 
 
   //Turns brake on for turn motor
-  digitalWrite(8, HIGH); 
+  digitalWrite(kPinTurnBrake, HIGH); 
 
   //Sets initial speed of drive motor
-  analogWrite(3, 200);
+  analogWrite(kPinDriveSpeed, 255);
   
   //Sets initial direction of drive motor
-  digitalWrite(12, HIGH);
+  digitalWrite(kPinDriveMotor, HIGH);
 }
 
 void loop()
@@ -46,18 +40,18 @@ void loop()
 
   // The PING))) is triggered by a HIGH pulse of 2 or more microseconds.
   // Give a short LOW pulse beforehand to ensure a clean HIGH pulse:
-  pinMode(pingPin, OUTPUT);
-  digitalWrite(pingPin, LOW);
+  pinMode(kPinPing, OUTPUT);
+  digitalWrite(kPinPing, LOW);
   delayMicroseconds(2);
-  digitalWrite(pingPin, HIGH);
+  digitalWrite(kPinPing, HIGH);
   delayMicroseconds(5);
-  digitalWrite(pingPin, LOW);
+  digitalWrite(kPinPing, LOW);
 
   // The same pin is used to read the signal from the PING))): a HIGH
   // pulse whose duration is the time (in microseconds) from the sending
   // of the ping to the reception of its echo off of an object.
-  pinMode(pingPin, INPUT);
-  duration = pulseIn(pingPin, HIGH);
+  pinMode(kPinPing, INPUT);
+  duration = pulseIn(kPinPing, HIGH);
 
   // convert the time into a distance
   inches = microsecondsToInches(duration);
@@ -71,7 +65,7 @@ void loop()
   if (inches < 12){
     
     //brake drive motor and pause 1/10 second
-    digitalWrite(9, HIGH);
+    digitalWrite(kPinDriveBrake, HIGH);
     delay(100);
 
     //
@@ -79,26 +73,26 @@ void loop()
     //
     
     //turn off brake for turn motor 
-    digitalWrite(8, LOW);
+    digitalWrite(kPinTurnBrake, LOW);
 
     //set turn motor direction
-    digitalWrite(13, HIGH);
+    digitalWrite(kPinTurnMotor, HIGH);
 
     //activate turn motor
-    analogWrite(11, 255);
+    analogWrite(kPinTurnMotorSpeed, 255);
     
     //
     //setting drive motor
     //
     
     //turn off brake of drive motor
-    digitalWrite(9, LOW); 
+    digitalWrite(kPinDriveBrake, LOW); 
     
     //set drive motor backwards direction
-    digitalWrite(12, LOW);
+    digitalWrite(kPinDriveMotor, LOW);
     
     //activate the drive motor
-    analogWrite(3, 200);
+    analogWrite(kPinDriveSpeed, 200);
 
     
     //backup for 2 seconds
@@ -109,8 +103,8 @@ void loop()
     //
     
     //brake both motors
-    digitalWrite(8, HIGH);
-    digitalWrite(9, HIGH);
+    digitalWrite(kPinTurnBrake, HIGH);
+    digitalWrite(kPinDriveBrake, HIGH);
     
     
   }
@@ -127,13 +121,13 @@ void loop()
     //
     
     //set drive motor forward direction
-    digitalWrite(12, HIGH);
+    digitalWrite(kPinDriveMotor, HIGH);
     
     //turn off brake of drive motor
-    digitalWrite(9, LOW);    
+    digitalWrite(kPinDriveBrake, LOW);    
     
     //activate drive motor
-    analogWrite(3, 200);
+    analogWrite(kPinDriveSpeed, 255);
   
   
   }
